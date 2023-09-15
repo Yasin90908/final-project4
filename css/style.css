@@ -13,7 +13,7 @@ body{
     background: linear-gradient(to top right, #ff9900 0%, #0000ff 100%);
     background-repeat: no-repeat;
     background-size: cover;
-    height: 1500px;
+    height: 6000px;
 }
 a{
     color: whitesmoke ;
@@ -208,7 +208,7 @@ h5{
         margin-top: 200px;
     }
     body{
-        height:3000px
+        height:5000px
     }
     .div-p2{
         margin-top: -270px;
@@ -220,7 +220,45 @@ h5{
     .circle{
         margin-left: 90px;
     }
+    .part3{
+        margin-top: 300%;
+    }
+    .hd2{
+        margin-top: 70px;
+        margin-right: 50px;
+    }
     
+}
+.card-body{
+    background-color: white;
+    height: 200px;
+}
+
+.part3{
+    width: 100%;
+  
+}
+.card-title {
+    text-align: center;
+ 
+}
+.card-text{
+    color: #fab751;
+    text-align: center;
+}
+img{
+    height: 200px;
+}
+.hd2{
+    margin-left: 80px;
+}
+.detals-p3{
+   margin-left: 80px;
+   margin-bottom: 100px;
+   
+}
+.d3{
+    text-align: center;
 }
 
 
